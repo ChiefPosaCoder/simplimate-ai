@@ -1,29 +1,34 @@
 {
   "projects": [
     {
-      "title": "Financial Services",
+      "title": "Healthcare",
       "id": 0,
-      "image": "/images/articles/financial-services.jpg",
-      "description": "-  Customer Complaints & AFCA<br />-  Middle & Back-office operations<br />-  Contact Centre Management<br />-  Audit & Complaince Remediation<br />-  HR & IT Services"
+      "image": "/images/services/stephen-dawson-qwtCeJ5cLYs-unsplash.jpg",
+      "description": "- Patient scheduling automation<br />- Medical records processing<br />- Diagnostic assistance<br />- Billing optimization"
     },
     {
-      "title": "Superannuation",
+      "title": "Financial Services",
       "id": 1,
-      "image": "/images/articles/super.png",
-      "description": "-  Fund Administration <br />-  Underwriting<br />-  Complaints Handling (ASFA)<br />-  Employeer & Employee Services<br /> Benefit Payments"
+      "image": "/images/articles/financial-services.jpg",
+      "description": "- Fraud detection<br />- Risk assessment automation<br />- Customer onboarding<br />- Compliance monitoring"
     },
     {
-      "title": "Customer Service & Operations",
+      "title": "Retail & E-Commerce",
       "id": 2,
       "image": "/images/articles/retail-ecommerce.jpg",
-      "description": "-  Enquiry Management<br />-  Back-office operations<br />-  Digital Channel Management<br />-  Customer Complaints<br />-  Next-Best Actions"
+      "description": "- Inventory management<br />- Customer behavior prediction<br />- Personalized recommendations<br />- Automated customer support"
     },
     {
-      "title": "Utilities & HealthCare",
+      "title": "Manufacturing",
       "id": 3,
-      "image": "/images/articles/healthcare.jpg",
-
-      "description": "-  Client Management<br />-  Process Automation (STP)<br />-  Job ticketing"
+      "image": "/images/articles/manufacturing.jpg",
+      "description": "- Predictive maintenance<br />- Quality control automation<br />- Supply chain optimization<br />- Production planning"
+    },
+    {
+      "title": "Professional Services",
+      "id": 4,
+      "image": "/images/services/ai-strategy-consulting.jpg",
+      "description": "- Document processing automation<br />- Client intake workflows<br />- Scheduling optimization<br />- Resource allocation"
     }
   ]
 }

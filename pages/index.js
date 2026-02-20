@@ -13,7 +13,7 @@ const Index = props => {
 
     const fetchData = async () => {
 
-      const API = process.env.API
+      const API = process.env.API || ''
       const stringify = JSON.stringify({
         types: [
           'header',
@@ -80,7 +80,7 @@ const Index = props => {
 
 
   return (
-    <Backbone title={`Simplimate | Low-Code Automation`}>
+    <Backbone title={`Simplimate AI | AI Consulting for Small Business`}>
       <PageMain
         {...props}
         {...params}

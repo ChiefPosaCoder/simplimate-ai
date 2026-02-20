@@ -1,43 +1,47 @@
 {
   "summary": {
-    "title": "There has never been a greater need for investment in digital automation.",
-    "subtitle": "Over the last 25 years we have led transformation programs at some of Australia’s largest corporations. Digital process automation is the key to driving & achieving critical business objectives.",
+    "title": "AI Solutions That Deliver Real Business Value",
+    "subtitle": "We help small and medium businesses implement AI that actually saves money and improves customer outcomes. No hype, just practical solutions that work.",
     "buttons": [],
     "img": null,
     "html": null,
     "direction": "row",
     "cards": [
       {
-        "title": "Low-Code No-Code Design",
-        "image": "/images/articles/code.png",
-        "description": "<p>Learn how to use low-code development tools, like Pega, to accelerate delivery.</p>",
-        "url": "/lowcode"
-      },
-      {
-        "title": "Digital Transformation Advisory",
+        "title": "AI Strategy & Design",
         "image": "/images/services/ai-strategy-consulting.jpg",
-        "description": "<p>Let us help you use the best-in-breed technologies & design to automate your business.</p>",
+        "description": "<p>Comprehensive AI roadmap including readiness assessment, strategy development, and custom solution design.</p>",
         "url": "/services"
       },
       {
-        "title": "Digital Project Delivery",
+        "title": "AI Implementation",
         "image": "/images/services/ai-implementation.jpg",
-        "description": "<p>End-to-end digital project delivery, including design, development and implementation in to your business.</p>",
-        "url": "/delivery"
+        "description": "<p>End-to-end deployment of AI solutions with minimal disruption.</p>",
+        "url": "/services"
       },
       {
-
-        "title": "Workforce - Find the Best Talent",
-
+        "title": "AI Resources & Talent",
         "image": "/images/services/ai-talent-resources.jpg",
-        "description": "<p>Highly experienced agile resources such as Scrum Masters, analysts, Architects, Quality Engineers, Developers, ready to help you grow.</p>",
+        "description": "<p>Access pre-vetted AI engineers, data scientists, and ML specialists.</p>",
         "url": "/staffing"
+      },
+      {
+        "title": "AI Support & Maintenance",
+        "image": "/images/lukas.jpg",
+        "description": "<p>Keep your AI solutions running at peak performance with ongoing support.</p>",
+        "url": "/services"
+      },
+      {
+        "title": "Cut Costs with AI",
+        "image": "/images/services/creative-brain-storm.jpg",
+        "description": "<p>Automate repetitive tasks and reduce operational overhead by up to 40%.</p>",
+        "url": "/services"
       }
     ]
   },
   "introOne": {
     "subtitle": null,
-    "title": "Create customer focused digital experiences",
+    "title": "AI That Pays for Itself",
     "buttons": [
       {
         "title": "Learn more",
@@ -45,12 +49,12 @@
       }
     ],
     "img": null,
-    "html": "<p>Your customers deserve light touch processes with minimal repetition, human interaction and effort.</p><p>You need to&nbsp;provide experiences that reduce the effort for your customers and users. Remove the stress and minimise the thought process, and automate the outcomes.</p>",
+    "html": "<p>We don't just implement AI for the sake of it. Every solution we deploy is designed to deliver measurable ROI - whether that's reducing manual work, cutting costs, or improving customer satisfaction.</p>",
     "direction": "row"
   },
   "introTwo": {
     "subtitle": null,
-    "title": "If there is data available, don’t ask for it",
+    "title": "Built for Small Business",
     "buttons": [
       {
         "title": "Learn more",
@@ -58,45 +62,45 @@
       }
     ],
     "img": null,
-    "html": "<p>Data is&nbsp;at&nbsp;the core of&nbsp;your business. It&nbsp;drives processes, decisions and outcomes, and your customer trust you with theirs. Learn how to&nbsp;maximise the value of&nbsp;data and structure your data models more efficiently</p>",
+    "html": "<p>Enterprise AI solutions often come with enterprise price tags. We specialize in making AI accessible to small and medium businesses, with solutions that scale with your needs and budget.</p>",
     "direction": "row-reverse"
   },
   "introPartner": {
     "subtitle": null,
-    "title": "Empowering Organisations to Achieve Digital Transformation Goals.",
+    "title": "Your Partner in AI Transformation",
     "img": "/images/infograph.png",
-    "html": "<p>Simplimate is a leading software development and consultancy company that helps medium and large organisations achieve their digital transformation goals. Our experienced project delivery team designs industry-leading solutions tailored to address your business needs. With our expertise in working across a wide variety of software and applications, we ensure that your organisation receives the best possible outcome.</p>",
+    "html": "<p>Simplimate AI helps small and medium businesses harness the power of artificial intelligence. We believe AI isn't just for big corporations - businesses of all sizes can benefit from intelligent automation, predictive insights, and smarter operations.</p>",
     "direction": "row"
   },
   "introThree": {
     "subtitle": null,
-    "title": "We've helped companies transform and automate 100s of business processes across diverse industries",
+    "title": "Proven Results Across Industries",
     "img": "",
-    "html": "",
+    "html": "<p>We've helped businesses transform their operations with AI solutions that deliver real, measurable outcomes. From healthcare to finance, retail to manufacturing, our team has the expertise to deliver results.</p>",
     "direction": "row-reverse"
   },
   "about": {
-    "subtitle": "Our mission is&nbsp;to&nbsp;bring businesses and customers together through smart digital <nobr>automation</nobr> solutions.",
+    "subtitle": "Making AI accessible and practical for businesses of all sizes.",
     "banner": {
-      "slogan": "A little about us.<br/>Our experience and passion",
-      "url": "/images/stories/team/TeamB&W2.jpg",
-      "brightness": "30%"
+      "slogan": "About Simplimate AI",
+      "url": "/images/stories/ai-banner-new.jpeg",
+      "brightness": "50%"
     },
-    "title": "Helping organisations achieve their full potential",
+    "title": "AI Consulting for the Mid-Market",
     "buttons": [],
     "img": "/images/stories/team/TeamB&W2.jpg",
-    "html": "<p>Simplimate was founded with a&nbsp;simple idea, that the strategies that we&nbsp;developed within&nbsp;large corporate organisations could be&nbsp;translated & applied to&nbsp;any business in&nbsp;any sector, government or&nbsp;private. With a&nbsp;combined 90 years' experience, we’ve&nbsp;successfully developed, designed and implemented digital transformation strategies across hundreds of&nbsp;business processes and thousands of&nbsp;users.</p><p>Simplimate goes beyond being just a consulting firm. We are firmly committed to delivering the best results for our clients and strongly believe in establishing authentic partnerships with them, always driven to help them achieve their goals. Our success is defined by the accomplishments of our clients.</p>",
+    "html": "<p>Simplimate AI was founded on a simple premise: AI shouldn't just be for large enterprises with massive budgets. Small and medium businesses deserve access to the same transformative technology.</p><p>With decades of experience in technology transformation, our team brings enterprise-grade AI capabilities to businesses of all sizes. We focus on practical, measurable solutions that deliver real ROI.</p>",
     "direction": "row"
   },
   "pricing": {
     "textAlign": "center",
-    "subtitle": "We&nbsp;can tailor a&nbsp;pricing plan that meets your needs.<br />To&nbsp;discuss pricing with our team, contact us&nbsp;below and we’ll&nbsp;reach out to&nbsp;you shortly.",
+    "subtitle": "We tailor our services to fit your needs and budget. Contact us to discuss how AI can transform your business.",
     "banner": {
       "slogan": "Pricing",
-      "url": "/images/stories/franck-v-rDxP1tF3CmA-unsplash.jpg",
+      "url": "/images/stories/ai-banner-new.jpeg",
       "brightness": "80%"
     },
-    "title": "Everyone is unique",
+    "title": "Flexible Pricing for Every Business",
     "buttons": [],
     "img": null,
     "html": null,
@@ -105,32 +109,31 @@
   "staffing": {
     "subtitle": "",
     "banner": {
-      "slogan": "Skilled Resourcing and Talent Management",
-      "url": "/images/stories/brooke-unsplash.jpeg",
+      "slogan": "AI Talent & Resources",
+      "url": "/images/stories/ai-banner-new.jpeg",
       "brightness": "70%"
     },
-    "title": "We’re a colourful and passionate team",
+    "title": "Access Skilled AI Professionals",
     "buttons": [],
     "img": "/images/team2.jpg",
-    "html": "<p>Simplimate was founded with a&nbsp;simple idea, that the strategies that we&nbsp;developed within&nbsp;large corporate organisations could be&nbsp;translated & applied to&nbsp;any business in&nbsp;any sector, government or&nbsp;private. With a&nbsp;combined 90 years' experience, we’ve&nbsp;successfully developed, designed and implemented digital transformation strategies across hundreds of&nbsp;business processes and thousands of&nbsp;users.</p>",
+    "html": "<p>Need AI talent for your projects? We provide access to pre-vetted AI engineers, data scientists, and ML specialists who can hit the ground running.</p><p>Whether you need short-term project support or long-term team augmentation, we have the talent to help you succeed.</p>",
     "direction": "row"
-
   },
   "delivery": {
     "subtitle": "",
     "banner": {
-      "slogan": "Expert Project Delivery",
-      "url": "/images/stories/brooke-unsplash.jpeg",
+      "slogan": "AI Implementation Services",
+      "url": "/images/stories/ai-banner-new.jpeg",
       "brightness": "70%"
     },
-    "title": "Managing and Executing Technology Projects with Precision",
+    "title": "End-to-End AI Implementation",
     "buttons": [],
     "img": "/images/agilelogo.png",
-    "html": "<p>At Simplimate, we specialize in end-to-end project delivery, utilizing agile methodologies to ensure seamless execution of technology projects for our clients. With our experienced team and proven methodologies, we take care of every aspect of the project, from planning to implementation, to deliver exceptional results. Additionally, we offer training to organisations to assist them on their agile journeys.<ul><li><b>Efficient Excecution - </b>We handle all project components, including requirements gathering, design, development, testing, and deployment.</li></br><li><b>Streamlined Process - </b>Our proven methodologies ensure efficient project management, on-time delivery, and cost-effective solutions.</li></ul></p>",
+    "html": "<p>Our implementation team has extensive experience deploying AI solutions across various industries and use cases. We follow proven methodologies to ensure successful outcomes:</p><ul><li><b>Discovery - </b>Understanding your business processes and identifying AI opportunities</li></br><li><b>Design - </b>Creating a tailored AI strategy and solution architecture</li></br><li><b>Development - </b>Building and training custom AI models</li></br><li><b>Deployment - </b>Integrating AI into your existing systems</li></br><li><b>Support - </b>Ongoing maintenance and optimization</li></ul>",
     "direction": "relative"
   },
   "sales": {
-    "title": "Product services ",
+    "title": "AI Consulting Services",
     "bodyUrl": "/md/articles.services.1.md",
     "buttons": [
       {
@@ -141,8 +144,8 @@
     ]
   },
   "resourcingSummary": {
-    "title": "Expertise and Resources to Meet Your Organisational Needs",
-    "subtitle": "Simplimate offers a wide range of resources, including experienced professionals and cutting-edge technology, to assist with various organisational needs. Whether you require assistance with technology projects, digital transformation initiatives, automation strategies, or AI capabilities, our team is here to provide expert guidance and deliver optimal outcomes.",
+    "title": "AI Talent When You Need It",
+    "subtitle": "Access our network of skilled AI professionals. From data scientists to ML engineers, we provide the talent you need to power your AI initiatives.",
     "buttons": [],
     "img": "/images/Resourcing.png",
     "html": null,

@@ -2,7 +2,6 @@ const withTM = require('next-transpile-modules')(['@material-ui/core', '@materia
 
 module.exports = (phase, { defaultConfig }) => withTM({
   reactStrictMode: false,
-  // Use webpack instead of Turbopack for compatibility
   turbopack: {},
   webpack: (config) => {
     config.resolve.alias = {
@@ -13,7 +12,8 @@ module.exports = (phase, { defaultConfig }) => withTM({
   },
   compress: true,
   env: {
-    API: phase === 'phase-production-server' || phase === 'phase-production-build' ? 'https://www.simplimate.com.au' : 'http://localhost:3000',
+    // Use relative URL in production (same domain)
+    API: phase === 'phase-production-server' || phase === 'phase-production-build' ? '' : 'http://localhost:3000',
     GAKEY: 'G-9K7MBD8JL1'
   },
 })

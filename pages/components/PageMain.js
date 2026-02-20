@@ -1,5 +1,6 @@
 import HeaderBlock from './HeaderBlock'
 import React, { Component } from 'react'
+import Typography from '@material-ui/core/Typography'
 
 import Services from './Services'
 import SubmitForm from './SubmitForm'
@@ -39,7 +40,17 @@ const PageMain = ({
         paddingxs={`1em 1em 1em 1em`}
         background={`ffffff`}
       />
-      <Grid margin={`5em 0 0 0`} container direction="row" justifyContent="center">
+      <Typography component="h2" variant="h2" align="center" gutterBottom style={{
+        fontFamily: "'Paytone One', sans-serif",
+        fontSize: '2.7em',
+        fontWeight: 500,
+        color: 'rgba(0, 0, 0, 0.9)',
+        marginBottom: '0.5em',
+        marginTop: '3em'
+      }}>
+        Our Services
+      </Typography>
+      <Grid margin={`2em 0 0 0`} container direction="row" justifyContent="center">
         <Grid item xs={10} sm={10}>
           <Cards secondary="false" cards={summary.cards} />
         </Grid>

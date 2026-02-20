@@ -1,26 +1,26 @@
 {
   "footerCopyright": {
-    "html": "Copyright Simplimate Limited 2022",
-    "contact": "Contact Us <br/>enquiries@simplimate.com.au"
+    "html": "Copyright Simplimate AI 2026",
+    "contact": "Contact Us <br/>enquiries@simplimate.ai"
   },
   "footerMenu": [
     {
       "title": "Services",
       "submenu": [
         {
-          "sub": "Low-code No-code Design",
-          "url": "/lowcode"
-        },
-        {
-          "sub": "Digital Transformation Advisory",
+          "sub": "AI Readiness Assessment",
           "url": "/services"
         },
         {
-          "sub": "Digital Project Delivery",
-          "url": "/delivery"
+          "sub": "AI Strategy & Design",
+          "url": "/services"
         },
         {
-          "sub": "Agile Workforce",
+          "sub": "AI Implementation",
+          "url": "/services"
+        },
+        {
+          "sub": "AI Resources & Talent",
           "url": "/staffing"
         }
       ]

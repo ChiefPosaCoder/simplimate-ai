@@ -17,7 +17,7 @@ const Staffing = props => {
 
         const fetchData = async () => {
 
-            const API = process.env.API
+            const API = process.env.API || ''
             const response = await fetch(`${API}/api/data`, {
                 method: 'post',
                 headers: {

@@ -1,16 +1,34 @@
 {
   "cards": [
     {
-      "title": "Simplimate's RPA Robots for Hire",
-      "description": "Golden Homes manage all construction projects through Flowingly, delivering enhanced business visibility.",
-      "urlImg": "",
+      "title": "AI Strategy & Design",
+      "description": "Comprehensive AI roadmap including readiness assessment, strategy development, and custom solution design tailored to your business goals.",
+      "urlImg": "/images/services/ai-strategy-consulting.jpg",
       "link": "/services"
     },
     {
-      "title": "Second One",
-      "description": "Golden Homes manage all construction projects through Flowingly.",
-      "urlImg": "",
-      "link": "/one"
+      "title": "AI Implementation",
+      "description": "End-to-end deployment of AI solutions with minimal disruption. We handle development, integration, and staff training.",
+      "urlImg": "/images/services/ai-implementation.jpg",
+      "link": "/services"
+    },
+    {
+      "title": "AI Resources & Talent",
+      "description": "Access pre-vetted AI engineers, data scientists, and ML specialists for short-term projects or long-term team augmentation.",
+      "urlImg": "/images/services/ai-talent-resources.jpg",
+      "link": "/staffing"
+    },
+    {
+      "title": "AI Support & Maintenance",
+      "description": "Keep your AI solutions running at peak performance with ongoing updates, monitoring, model retraining, and technical support.",
+      "urlImg": "/images/lukas.jpg",
+      "link": "/services"
+    },
+    {
+      "title": "Cut Costs with AI",
+      "description": "Automate repetitive tasks and reduce operational overhead by up to 40% with intelligent AI solutions tailored for SMBs.",
+      "urlImg": "/images/services/creative-brain-storm.jpg",
+      "link": "/services"
     }
   ]
 }

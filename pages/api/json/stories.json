@@ -1,18 +1,19 @@
 {
   "stories": [
     {
-      "slogan": "Streamline, Optimise, Dominate.",
-      "subslogan": "We architect your digital advantage.",
+      "slogan": "AI That Actually Works for Your Business",
+      "subslogan": "We help small and medium businesses implement AI solutions that reduce costs and improve customer outcomes.",
       "button": {
-      "title": "Business Solutions",
-      "url": "/services"
-    },
+        "title": "Our Services",
+        "url": "/services"
+      },
       "button2": {
-      "title": "Find Talent",
-      "url": "/staffing"
-    },
+        "title": "Get Started",
+        "url": "/contactus"
+      },
       "id": 0,
-      "url": "/images/stories/louis-reed-wSTCaQpiLtc-unsplash.jpeg"
+      "url": "/images/stories/ai-banner-new.jpeg",
+      "brightness": "60%"
     }
   ]
 }

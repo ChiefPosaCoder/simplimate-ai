@@ -148,7 +148,7 @@ const ContactUsForm = ({
 
   const submitForm = async () => {
 
-    const API = process.env.API 
+    const API = process.env.API || '' 
 
     return await fetch(`${API}/api/submit`, {
       method: 'post',

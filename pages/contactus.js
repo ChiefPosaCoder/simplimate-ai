@@ -9,7 +9,7 @@ import PageContactUs from './components/PageContactUs'
 
   const [params, setParams] = React.useState({})
 
-  const API = process.env.API
+  const API = process.env.API || ''
 
 
   React.useEffect(() => {

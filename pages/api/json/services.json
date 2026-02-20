@@ -1,10 +1,10 @@
 {
   "services": {
     "banner": {
-      "slogan": "Business Solutions and Advisory",
-      "subslogan": "<p>To achieve great outcomes you need committed, passionate, &amp; resources with proven industry leading experience.  We have developed, designed and implemented digital transformation strategies at some of the largest organisations in Australia.</p>",
-      "url": "/images/stories/brooke-unsplash.jpeg",
-      "brightness": "80%"
+      "slogan": "AI Consulting Services",
+      "subslogan": "<p>We help small and medium businesses unlock the power of AI to cut costs, streamline operations, and deliver better customer experiences.</p>",
+      "url": "/images/stories/ai-banner-new.jpeg",
+      "brightness": "70%"
     },
     "articles": [
       {
@@ -13,110 +13,64 @@
         "subtitle": null,
         "buttons": [],
         "img": null,
-        "html": "<p>Discover Simplimate's comprehensive suite of services designed to maximize your organisation's potential. From low-code software development to digital transformation initiatives, our experienced team is here to help you achieve success.</p>",
+        "html": "<p>Simplimate AI offers comprehensive AI consulting services tailored for small to medium businesses. We help you identify opportunities, implement solutions, and achieve measurable ROI.</p>",
         "direction": "row"
       },
       {
-        "title": "Automation Strategies and Roadmaps",
+        "title": "AI Strategy & Design",
         "subtitle": null,
         "buttons": [
           {
-            "title": "Contact us",
+            "title": "Learn More",
             "url": "/contactus",
             "style": "primary"
           }
         ],
-        "img": "/images/services/creative-brain-storm.jpeg",
-        "html": "<p>Our Automation Strategies and Roadmaps service assists organisations in establishing efficient processes using automation. By examining your data and processing expenses and pinpointing areas for enhancement, we craft personalised strategies and roadmaps to optimise your operations and boost productivity.</p>",
+        "img": "/images/services/ai-strategy-consulting.jpg",
+        "html": "<p>Every successful AI implementation starts with a solid strategy. Our comprehensive approach includes readiness assessment to evaluate your current processes and data infrastructure, followed by strategy development and custom solution design. We identify high-impact AI opportunities that deliver quick wins and long-term savings, creating a customized AI roadmap aligned with your business goals, budget, and technical capabilities.</p>",
         "direction": "row"
       },
       {
-        "title": "Evaluating Your Tech Landscape for Strategic Recommendations",
+        "title": "AI Implementation",
         "subtitle": null,
         "buttons": [
           {
-            "title": "Contact us",
+            "title": "Learn More",
             "url": "/contactus",
             "style": "primary"
           }
         ],
-        "img": "/images/TechLand1.png",
-        "html": "<p>At Simplimate, we conduct thorough assessments of your organisation's technology landscape to provide strategic recommendations that address your business needs. Our experienced team evaluates your current technology infrastructure and identifies areas for improvement and optimisation.<p><ul><li><b>Assessment Approach - </b>Comprehensive evaluation of your technology landscape to identify opportunities for growth and efficiency.</li></br><li><b>Strategic Recommendations - </b>Tailored recommendations to address your organisation's specific needs and drive digital transformation.</li></ul></p></p>",
+        "img": "/images/services/ai-implementation.jpg",
+        "html": "<p>Turn strategy into reality. Our implementation team deploys AI solutions using proven methodologies, ensuring minimal disruption to your operations. We handle everything from model development to system integration and staff training. Our end-to-end approach covers discovery, design, development, deployment, and ongoing support.</p>",
         "direction": "row-reverse"
       },
       {
-        "title": "Assess the Effectiveness of Your Applications with Our Technology Health Checks",
+        "title": "AI Resources & Talent",
         "subtitle": null,
         "buttons": [
           {
-            "title": "Contact us",
+            "title": "Learn More",
+            "url": "/contactus",
+            "style": "primary"
+          }
+        ],
+        "img": "/images/services/ai-talent-resources.jpg",
+        "html": "<p>Need skilled AI talent? We provide access to pre-vetted AI engineers, data scientists, and ML specialists who can augment your team for short-term projects or long-term engagements. Scale your AI capabilities without the overhead of full-time hires. Whether you need one specialist or an entire team, we've got you covered.</p>",
+        "direction": "row"
+      },
+      {
+        "title": "AI Support & Maintenance",
+        "subtitle": null,
+        "buttons": [
+          {
+            "title": "Learn More",
             "url": "/contactus",
             "style": "primary"
           }
         ],
         "img": "/images/lukas.jpg",
-        "html": "<p>Our Technology Health Checks service evaluates your current applications to ensure they are maximizing their potential and delivering the best outcomes for your organisation.</p>",
-        "direction": "row"
-      }
-      ,
-      {
-        "title": "Choosing the Perfect Tech Products for Your Business Needs",
-        "subtitle": null,
-        "buttons": [
-          {
-            "title": "Contact us",
-            "url": "/contactus",
-            "style": "primary"
-          }
-        ],
-        "img": "/images/vardan.jpg",
-        "html": "<p>At Simplimate, we understand the importance of selecting the right tech products for your organisation. Our Tech Product Assessment service helps you make informed decisions that align with your business goals and requirements.</p><ul><li><b>Why Choose Us - </b>Extensive market research to identify the best tech products for your needs, as a completely independent organisation with no affiliations with tech companies, our top priority is ensuring the best outcomes for our clients.</li></br><li><b>Our Approach - </b>Our approach involves identifying business problems and needs, and conducting a detailed market analysis of all available products. We provide our clients with options, outlining the pros and cons of each, to assist them in making the best decisions for their specific circumstances.</li></ul>",
+        "html": "<p>AI systems require ongoing care to maintain performance. Our comprehensive support and maintenance packages ensure your AI solutions continue to deliver value. This includes regular updates, performance monitoring, model retraining with new data, and technical support when you need it. We also offer fine-tuning services to improve model accuracy over time.</p>",
         "direction": "row-reverse"
-      }
-      ,
-      {
-        "title": "Project Health",
-        "subtitle": null,
-        "buttons": [
-          {
-            "title": "Contact us",
-            "url": "/contactus",
-            "style": "primary"
-          }
-        ],
-        "img": "/images/marcelo.jpg",
-        "html": "<p>Our 'Health Checks on Current Projects' service ensures that your projects are on track for success. We conduct thorough assessments of your ongoing projects, identifying any potential issues or bottlenecks that may hinder their success. Our experienced team provides recommendations and actionable insights to ensure that your projects are delivered efficiently and effectively. With our expertise, you can maximize the potential of your projects and achieve the desired outcomes.</p>",
-        "direction": "row"
-      }
-      ,
-      {
-        "title": "Unleashing AI's Power to Maximize Organisational Potential",
-        "subtitle": null,
-        "buttons": [
-          {
-            "title": "Contact us",
-            "url": "/contactus",
-            "style": "primary"
-          }
-        ],
-        "img": "/images/growtika.jpg",
-        "html": "<p>Discover the untapped potential of your organisation with Simplimate's Assessment for AI service. Our experienced team will analyze your business needs and recommend AI solutions to drive growth and efficiency.</p>",
-        "direction": "row-reverse"
-      }
-      ,
-      {
-        "title": "Skilled Resources to Support Your Project Delivery",
-        "subtitle": null,
-        "buttons": [
-          {
-            "title": "Contact us",
-            "url": "/contactus",
-            "style": "primary"
-          }
-        ],
-        "img": "/images/airfocus.jpg",
-        "html": "<p>At Simplimate, we understand the importance of having the right resources for successful project delivery. Our team of skilled professionals is here to provide the support you need, ensuring your projects are completed efficiently and effectively.</p>",
-        "direction": "row"
       }
     ]
   }
