@@ -1,4 +1,8 @@
-const withTM = require('next-transpile-modules')(['@material-ui/core', '@material-ui/system']);
+const withTM = require('next-transpile-modules')([
+  '@material-ui/core', 
+  '@material-ui/system',
+  'styled-components'
+]);
 
 module.exports = (phase, { defaultConfig }) => withTM({
   reactStrictMode: false,
@@ -6,7 +10,7 @@ module.exports = (phase, { defaultConfig }) => withTM({
   compiler: {
     styledComponents: true,
   },
-  webpack: (config) => {
+  webpack: (config, { isServer }) => {
     config.resolve.alias = {
       ...config.resolve.alias,
       '@material-ui/styled-engine': '@material-ui/styled-engine-sc',
