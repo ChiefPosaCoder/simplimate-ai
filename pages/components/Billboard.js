@@ -84,10 +84,10 @@ const Slogan = styled.div`
     z-index: 1;
     position: relative;
     text-align: center;
-    font-size: 3.5em;
+    font-size: 2.5em;
     line-height: 1.1;
     color: #fff;
-    font-family: 'Paytone One', sans-serif;
+    font-family: 'Poppins', sans-serif;
 
     ${mediaGrid(`sm`)} {
       font-size: 2em;
@@ -101,7 +101,7 @@ const Slogan = styled.div`
 const Subslogan = styled.div`
   && {
     text-align: center;
-    font-size: 1.7em;
+    font-size: 1.25em;
     line-height: 1.321;
     font-family: Poppins, sans-serif;
     margin-top: 1.5em;

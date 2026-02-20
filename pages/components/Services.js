@@ -33,8 +33,8 @@ const Title = styled(Typography)`
   && {
     color: rgba(0, 0, 0, 0.9);
     font-weight: 500;
-    font-size: 2.7em;
-    font-family: 'Paytone One', sans-serif;
+    font-size: 2em;
+    font-family: 'Poppins', sans-serif;
     line-height: 1.1;
 
     margin-bottom: 1em;

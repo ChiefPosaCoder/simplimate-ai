@@ -41,8 +41,8 @@ const PageMain = ({
         background={`ffffff`}
       />
       <Typography component="h2" variant="h2" align="center" gutterBottom style={{
-        fontFamily: "'Paytone One', sans-serif",
-        fontSize: '2.7em',
+        fontFamily: "'Poppins', sans-serif",
+        fontSize: '2em',
         fontWeight: 500,
         color: 'rgba(0, 0, 0, 0.9)',
         marginBottom: '0.5em',
