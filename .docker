@@ -1,0 +1,59 @@
+Prepare npm packages 
+```
+yarn
+```
+
+Up container
+```
+#remove
+docker stop $(docker ps -a -q)
+docker rm `docker ps -qa`
+docker rmi -f `docker images ls -a -q `
+docker volume rm $(docker volume ls -qf dangling=true)
+  
+#check 
+docker ps -a
+docker image ls --no-trunc
+
+#build  
+docker build -t simplimate .
+
+#pull docker image from docker hub
+docker pull simplimate/ec2:latest
+
+
+#run
+docker run -d -p 3000:3000 simplimate:latest
+```
+
+Go to container
+```
+docker exec -it <id> bash
+```
+
+By using docker-compose
+```
+docker-compose build
+docker-compose up -d
+```
+
+Check that project is running
+```
+lsof -i :3000
+```
+
+Stop all containers
+```
+docker-compose down #or
+docker stop $(docker ps -a -q)
+```
+Using tools.sh
+Clean all
+sh tools.sh removeAllFromDocker
+
+Rebuild
+sh tools.sh rebuildEnvironment
+
+
+
+

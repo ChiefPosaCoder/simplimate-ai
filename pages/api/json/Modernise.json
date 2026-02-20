@@ -1,0 +1,45 @@
+{
+  "Modernise": {
+    "banner": {
+      "slogan": "The benefits of a fully managed<br />Pega Cloud Service.",
+      "subslogan": "",
+      "url": "/images/stories/brooke-unsplash.jpeg",
+      "brightness": "80%"
+    },
+    "articles": [
+      {
+        "textAlign": "relative",
+        "title": "We're helping our enterprise customers migrate their Pega applications to Pega Cloud for these key reasons.",
+
+        "img": "",
+        "direction": "row-reverse"
+      },
+      {
+        "textAlign": "relative",
+        "title": null,
+        "subtitle": null,
+        "buttons": [],
+        "img": null,
+        "html": "<p><strong>1. They are struggling to find and keep talented engineers to support their infrastructure.<br /><br />2.  Cost savings and removing maintenance/support overheads from their previous on premise/private cloud implementations.<br /><br />3.  Want to be cloud enabled and complaint, but focus on delivering great customer outcomes fast.<br /><br />4.  Don't have to support databases, scalability, availability, load balancing, security etc.        </strong></p>",
+        "direction": "row"
+      },
+      {
+        "title": "",
+        "subtitle": null,
+        "buttons": [
+          {
+            "title": "Get the whitepaper",
+            "url": "/Articles/PegaCloudMigration.pdf",
+            "style": "primary"
+          }
+        ],
+        "img": "",
+        "html": "",
+        "direction": "row"
+      },
+      {
+        "title": ""
+      }
+    ]
+  }
+}

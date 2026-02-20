@@ -1,0 +1,29 @@
+{
+  "menu": [
+    {
+      "title": "Low-code",
+      "url": "/lowcode"
+    },
+    {
+      "title": "Business Solutions",
+      "url": "/services"
+    },
+    {
+      "title": "Project Delivery",
+      "url": "/delivery"
+    },
+    {
+      "title": "Talent",
+      "url": "/staffing"
+    },
+    {
+      "title": "About Us",
+      "url": "/about"
+    },
+    {
+      "title": "Get Started",
+      "url": "/contactus",
+      "type": "primary"
+    }
+  ]
+}

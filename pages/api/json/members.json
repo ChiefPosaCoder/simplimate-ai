@@ -1,0 +1,54 @@
+{
+  "membersTitle": "Meet the leadership team",
+  "members": [
+    {
+      "linkedin": "https://www.linkedin.com/in/stanistreetd/",
+      "title": "Duncan Stanistreet",
+      "role": "Co-Founder & CEO",
+      "src": "/images/DuncanProfileColour.jpeg",
+      "description": "Having held chief digital transformation & automation roles across the larger corporate organisations in Australia, Duncan has been a leader in the digital transformation industry since its infancy.  He’s experienced the industry evolve first-hand over the last 20 years from early macros, to BPM, human-centred workflow, digital process automation and now to hyper-automation & artificial intelligence."
+    },
+    {
+      "linkedin": "https://www.linkedin.com/in/tom-posadowski-b0242772/",
+      "title": "Tom Posadowski",
+      "role": "Co-Founder & COO",
+      "src": "/images/TomProfileColour.jpeg",
+      "description": "Tom has been designing and leading the implementation of automation solutions for over a decade.  His passion for people mixed with a laser focus on the flow of data across the value chain, he is exceptionally well placed to deliver real customer outcomes."
+    },
+    {
+      "linkedin": "https://www.linkedin.com/in/mathewparkin1983/",
+      "title": "Matt Parkin",
+      "role": "Head of Innovation & Technology",
+      "src": "/images/MattProfileColour.jpeg",
+      "description": "Matt is an accomplished Solution Architect with over 10 years technology design and architecture experience in the financial services sector, across the big 4 financial institutions in Australia. His business outcome focused approach and underlying knowledge of a large suite of enterprise technologies enables him to add exponential value to your technology transformation projects."
+    },
+    {
+      "linkedin": "https://www.linkedin.com/in/saviorhapuarachchi/",
+      "title": "Savio Hapuarachchi",
+      "role": "Strategic Business & Technology Advisor",
+      "src": "/images/SavioProfile.jpeg",
+      "description": "Savio Hapuarachchi is a seasoned strategic advisor in AI and data, driving transformative solutions for global enterprises across key industries. With over a decade of experience, he excels in aligning cutting-edge AI technologies with business objectives, empowering businesses to harness the potential of AI."
+    },
+    {
+      "linkedin": "https://www.linkedin.com/in/gurvinder-sekhon-8a04281aa/",
+      "title": "Gurvinder Sekhon",
+      "role": "Senior Automation Strategist",
+      "src": "/images/GroovyProfileColour.jpeg",
+      "description": "Gurvy has been helping businesses design amazing user experiences through automation & workflow solutions.  His extensive experience is not only from the hundreds of business processes he's helped design, but also feedback from the actual users.  The insights he has gained are invaluable in creating leading solutions."
+    },
+    {
+      "linkedin": "https://www.linkedin.com/in/benvanwees/",
+      "title": "Ben Van Wees",
+      "role": "Agile Scrum Coach",
+      "src": "/images/BenProfileColour.jpeg",
+      "description": "Ben has been an agile champion for over 5 years.  His passion is in educating organisations in delivering amazing outcomes through rewriting what's possible in project delivery."
+    },
+    {
+      "linkedin": "https://www.linkedin.com/in/ephraimd/",
+      "title": "Ephraim Dahne",
+      "role": "Senior Business Architect",
+      "src": "/images/ephraim.jpeg",
+      "description": "Ephraim is a Certified Business Analysis Professional (CBAP®) with over 15 years of experience across business and technology projects and programs. He has proven abilities in all aspects of project delivery and software development life cycles, with extensive experience using business analysis tools and techniques to deliver business value."
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "stories": [
+    {
+      "slogan": "Streamline, Optimise, Dominate.",
+      "subslogan": "We architect your digital advantage.",
+      "button": {
+      "title": "Business Solutions",
+      "url": "/services"
+    },
+      "button2": {
+      "title": "Find Talent",
+      "url": "/staffing"
+    },
+      "id": 0,
+      "url": "/images/stories/louis-reed-wSTCaQpiLtc-unsplash.jpeg"
+    }
+  ]
+}

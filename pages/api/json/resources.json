@@ -1,0 +1,76 @@
+{
+    "category1Title": "Project Management",
+    "category1Resources": [
+        {
+            "title": "Product Owner",
+            "role": "Leads the team to define vision, strategy and KPIs, driving alignment across the portfolio with needs of business.",
+            "description": "<ul><li>Provides an escalation point for issue resolution.</li><li>Support delivery team to maintain velocity by rapidly removing team obstacles.</li><li>Creates and educates on agile culture and collaboration.</li><li>Sets development objectives and identifies opportunities for continuous improvement.</li></ul>"
+        },
+        {
+            "title": "Quality Engineering Manager",
+            "role": "Ensures quality approach is embedded in all deliverable assets produced by squads across the product lifecycle",
+            "description": "<ul><li>Defines Automation Strategy and instils an automation first approach to design, coding and testing of new features. </li><li>Facilitate & guide quality between developers and QA to improve efficiencies and remove waste.</li><li>Build frameworks for better testability and quality outcomes.</li></ul>"
+        },
+        {
+            "title": "Business Process Engineer",
+            "role": "Supports redesign processes with lean methodologies to minimise waste and reduce bottleneck and handoffs.",
+            "description": "<ul><li>Defines Automation Strategy and instils an automation first approach to design, coding and testing of new features. </li><li>Facilitate & guide quality between developers and QA to improve efficiencies and remove waste.</li><li>Build frameworks for better testability and quality outcomes.</li></ul>"
+        },
+        {
+            "title": "Lead Business Analyst",
+            "role": "Defines and owns the process of translating end-user / customer requirements into User Stories, complete with acceptance criteria.",
+            "description": "<ul><li>Defines Automation Strategy and instils an automation first approach to design, coding and testing of new features. </li><li>Facilitate & guide quality between developers and QA to improve efficiencies and remove waste.</li><li>Build frameworks for better testability and quality outcomes.</li></ul>"
+        }
+    ],
+    "category2Title": "Architecture",
+    "category2Resources": [
+        {
+            "title": "Solution Architect",
+            "role": "Owns conceptual architecture of the solution.",
+            "description": "<ul><li>Develops initiative conceptual architecture, t-shirt sizing, identification of major capabilities / dependencies.</li><li>Owns seeking / managing architecture approvals through appropriate technology forums.</li><li>Oversees design and development of end-to-end solutions.</li></ul>"
+        },
+        {
+            "title": "Business Architect",
+            "role": "Provides product functional leadership and best practice direction. ",
+            "description": "<ul><li>Advises on functional product architecture direction.</li><li>Updates and validates the functional “Epic Level” backlog.</li><li>Works with the delivery squads to provide design reviews and functional leadership on implementation, customisations and integrations.</li></ul>"
+        },
+        {
+            "title": "Data Architect",
+            "role": "Set and direct data architecture principles for the solution.",
+            "description": "<ul><li>Advises on functional product architecture direction.</li><li>Help define data models that enable the implementation of the intended business architecture to ensure alignment across the project and the broader enterprise.</li><li>Direct data standards for all its systems to manage interactions with integration partners.</li></ul>"
+        },
+        {
+            "title": "Technical Architect",
+            "role": "Provides product technical leadership and best practice. ",
+            "description": "<ul><li>Advises on technical product architecture direction.</li><li>Undertakes complex system integration configuration.</li><li>Works with the delivery team to provide design reviews and technical leadership on implementation, configuration and integrations.</li><li>Advises on complex installation requirements and provides hardware and architecture design recommendations.</li></ul>"
+        }
+    ],
+    "category3Title": "Delivery Squad",
+    "category3Resources": [
+        {
+            "title": "Developer",
+            "role": "Designs, constructs, & tests.",
+            "description": "<ul><li>Integrates new features and functionality during the current iterative sprint in accordance with the acceptance criteria.</li><li>Documents constructed features and functionalities.</li></ul>"
+        },
+        {
+            "title": "Business Analyst",
+            "role": "Works with the Product Owner to understand, elicit, analyse, document and communicate business requirements and articulate product vision with a strong focus on value delivery.",
+            "description": "<ul><li>Translates end-user / customer requirements into stories complete with acceptance criteria, easily understood by the developers and testers.</li><li>Helps the Product Owner to define and own the value definition of Stories.</li><li>Collaborates with key stakeholders across business and technology to complete required artefacts and capture necessary input.</li></ul>"
+        },
+        {
+            "title": "Quality Engineer",
+            "role": "Facilitate & guide quality between developers and quality engineers to improve efficiencies and remove waste.",
+            "description": "<ul><li>Build frameworks for better testability and quality outcomes, including test automation.</li><li>Test new features and functionality during the current iterative sprint in accordance with the acceptance criteria.</li><li>Creates and educates on agile culture and collaboration.</li></ul>"
+        },
+        {
+            "title": "CX/BX Expert (UX/HCD)",
+            "role": "Designs workflow using Human Centred-and Zero Based-Design.",
+            "description": "<ul><li>Uses customer research to drive best user experience outcome.</li><li>Test prototypes and creates user friendly experience for the product.</li><li>Design the customer experience, interactions, and flows.</li><li>Builds design front-end digital solutions.</li></ul>"
+        },
+        {
+            "title": "DevOps",
+            "role": "Coordinate environment provisioning and integration activities with assets.",
+            "description": "<ul><li>Ensure assets approach is in line with agreed standards and scalable across all delivery.</li><li>Enables self-service capabilities for developers and testers to allow Continuous Integration and Continuous Deployment (CI/CD).</li><li>Provision development and testing environments.</li><li>Supports automation test suite execution.</li><li>Monitor performance.</li></ul>"
+        }
+    ]
+}

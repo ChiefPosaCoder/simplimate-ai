@@ -1,0 +1,42 @@
+{
+  "footerCopyright": {
+    "html": "Copyright Simplimate Limited 2022",
+    "contact": "Contact Us <br/>enquiries@simplimate.com.au"
+  },
+  "footerMenu": [
+    {
+      "title": "Services",
+      "submenu": [
+        {
+          "sub": "Low-code No-code Design",
+          "url": "/lowcode"
+        },
+        {
+          "sub": "Digital Transformation Advisory",
+          "url": "/services"
+        },
+        {
+          "sub": "Digital Project Delivery",
+          "url": "/delivery"
+        },
+        {
+          "sub": "Agile Workforce",
+          "url": "/staffing"
+        }
+      ]
+    },
+    {
+      "title": "Company",
+      "submenu": [
+        {
+          "sub": "About Us",
+          "url": "/about"
+        },
+        {
+          "sub": "Contact Us",
+          "url": "/contactus"
+        }
+      ]
+    }
+  ]
+}

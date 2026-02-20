@@ -1,0 +1,64 @@
+{
+  "lowcode": {
+    "banner": {
+      "slogan": "Maximise your investment&nbsp;in<br /> low-code with our industry<br /> solutions & designs",
+      "subslogan": "<p>To achieve great outcomes you need committed, passionate, &amp; resources with proven industry leading experience.  We have developed, designed and implemented digital transformation strategies at some of the largest organisations in Australia.</p>",
+      "url": "/images/stories/brooke-unsplash.jpeg",
+      "brightness": "80%"
+    },
+    "articles": [
+      {
+        "textAlign": "relative",
+        "title": "Leveraging industry leading platforms, let us show you how we help some of Australia's largest organisations with their low-code strategy. ",
+
+        "img": "/images/LowcodeVendors.png",
+        "direction": "row-reverse"
+      },
+      {
+        "textAlign": "relative",
+        "title": null,
+        "subtitle": null,
+        "buttons": [],
+        "img": null,
+        "html": "<p><strong>Low-code application platforms (LCAP) provide guided application development, automation and governance capabilities, enabling professional and citizen developers to rapidly develop digital solutions.</strong>  <br /><br /> LCAPs can be used as rapid application development platforms, which enable businesses to quickly create applications by abstracting and minimising traditional low-level coding. As a result, LCAPs can accelerate the development processes and reduce time to market. In addition, low-code platforms can provide governance and control over the development process, and the ability to automatically generate code that is compliant with corporate standards. This can help to reduce the risk of errors and improve the quality of the application.<br /><br />The adoption of LCAPs is accelerating across all industries as organisations demand new digital solutions in rapidly changing operational environments, where skilled developers are often in short supply.  <strong>With a well-designed & executed strategy, low-code/no-code can enable rapid scale by removing financial and resource barries</strong> which would have made many initiatives previously unviable.</p>",
+        "direction": "row"
+      },
+      {
+        "title": "Things to consider when selecting a low-code provider.",
+        "subtitle": null,
+        "buttons": [
+          {
+            "title": "Read more",
+            "url": "https://www.gartner.com/doc/reprints?id=1-27NKE3WA&ct=211015",
+            "style": "primary"
+          }
+        ],
+        "img": "/images/vendorchart.png",
+        "html": "<p>•  Component reusability <br />•  Business logic and workflow<br />•  Software development life cycle<br />•  User experience design<br />•  Integration and APIs<br />•  Co-development productivity<br />•  Governance<br />•  Security and quality of service</p>",
+        "direction": "row"
+      },
+      {
+        "title": "Simplimate is a leader in designing, and maximising your investment in low-code through our industry proven solutions & designs.",
+        "subtitle": "The enterprise applications that make your business unique, start with a vision.  Customers choose Simplimate because we remove complexity from the development process, accelerate innovation, and create high-performing teams–all while enabling them to use no-code their way."
+      },
+      {
+        "title": "Design principles to consider with your next low-code strategy.",
+        "subtitle": null,
+        "buttons": [
+          {
+            "title": "Request a demo today",
+            "url": "/contactus",
+            "style": "primary"
+          }
+        ],
+        "img": "/images/stats2.png",
+        "html": "<p> <strong>1.  No software development experience required by citizen developers.<br />2. One time installation</strong>, configuration and setup of low-code/no-code platform. <br /><strong>3.  Design & develop reusable business components</strong>, case types, integrations and reports that are ready to use “off-the-shelf” & fully tailorable to all business needs.<br /><strong>4.  Keep businesses in the low-code lane as much as possible. <br />5.  Avoid customisation/divergence</strong> away from product guardrails.  <br /> Upgrade Ready =  Always up-to-date with latest product features.<br /><strong>6.  Data-Driven design.</strong>  Control solution parameters, behaviour & layout through data instead of code/classes.</p>",
+        "direction": "row-reverse"
+      },
+      {
+        "title": " ",
+        "subtitle": null
+      }
+    ]
+  }
+}

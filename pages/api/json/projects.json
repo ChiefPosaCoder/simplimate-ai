@@ -1,0 +1,29 @@
+{
+  "projects": [
+    {
+      "title": "Financial Services",
+      "id": 0,
+      "image": "/images/articles/financial-services.jpg",
+      "description": "-  Customer Complaints & AFCA<br />-  Middle & Back-office operations<br />-  Contact Centre Management<br />-  Audit & Complaince Remediation<br />-  HR & IT Services"
+    },
+    {
+      "title": "Superannuation",
+      "id": 1,
+      "image": "/images/articles/super.png",
+      "description": "-  Fund Administration <br />-  Underwriting<br />-  Complaints Handling (ASFA)<br />-  Employeer & Employee Services<br /> Benefit Payments"
+    },
+    {
+      "title": "Customer Service & Operations",
+      "id": 2,
+      "image": "/images/articles/retail-ecommerce.jpg",
+      "description": "-  Enquiry Management<br />-  Back-office operations<br />-  Digital Channel Management<br />-  Customer Complaints<br />-  Next-Best Actions"
+    },
+    {
+      "title": "Utilities & HealthCare",
+      "id": 3,
+      "image": "/images/articles/healthcare.jpg",
+
+      "description": "-  Client Management<br />-  Process Automation (STP)<br />-  Job ticketing"
+    }
+  ]
+}

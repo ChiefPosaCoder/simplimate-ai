@@ -1,0 +1,151 @@
+{
+  "summary": {
+    "title": "There has never been a greater need for investment in digital automation.",
+    "subtitle": "Over the last 25 years we have led transformation programs at some of Australia’s largest corporations. Digital process automation is the key to driving & achieving critical business objectives.",
+    "buttons": [],
+    "img": null,
+    "html": null,
+    "direction": "row",
+    "cards": [
+      {
+        "title": "Low-Code No-Code Design",
+        "image": "/images/articles/code.png",
+        "description": "<p>Learn how to use low-code development tools, like Pega, to accelerate delivery.</p>",
+        "url": "/lowcode"
+      },
+      {
+        "title": "Digital Transformation Advisory",
+        "image": "/images/services/ai-strategy-consulting.jpg",
+        "description": "<p>Let us help you use the best-in-breed technologies & design to automate your business.</p>",
+        "url": "/services"
+      },
+      {
+        "title": "Digital Project Delivery",
+        "image": "/images/services/ai-implementation.jpg",
+        "description": "<p>End-to-end digital project delivery, including design, development and implementation in to your business.</p>",
+        "url": "/delivery"
+      },
+      {
+
+        "title": "Workforce - Find the Best Talent",
+
+        "image": "/images/services/ai-talent-resources.jpg",
+        "description": "<p>Highly experienced agile resources such as Scrum Masters, analysts, Architects, Quality Engineers, Developers, ready to help you grow.</p>",
+        "url": "/staffing"
+      }
+    ]
+  },
+  "introOne": {
+    "subtitle": null,
+    "title": "Create customer focused digital experiences",
+    "buttons": [
+      {
+        "title": "Learn more",
+        "url": "/services"
+      }
+    ],
+    "img": null,
+    "html": "<p>Your customers deserve light touch processes with minimal repetition, human interaction and effort.</p><p>You need to&nbsp;provide experiences that reduce the effort for your customers and users. Remove the stress and minimise the thought process, and automate the outcomes.</p>",
+    "direction": "row"
+  },
+  "introTwo": {
+    "subtitle": null,
+    "title": "If there is data available, don’t ask for it",
+    "buttons": [
+      {
+        "title": "Learn more",
+        "url": "/services"
+      }
+    ],
+    "img": null,
+    "html": "<p>Data is&nbsp;at&nbsp;the core of&nbsp;your business. It&nbsp;drives processes, decisions and outcomes, and your customer trust you with theirs. Learn how to&nbsp;maximise the value of&nbsp;data and structure your data models more efficiently</p>",
+    "direction": "row-reverse"
+  },
+  "introPartner": {
+    "subtitle": null,
+    "title": "Empowering Organisations to Achieve Digital Transformation Goals.",
+    "img": "/images/infograph.png",
+    "html": "<p>Simplimate is a leading software development and consultancy company that helps medium and large organisations achieve their digital transformation goals. Our experienced project delivery team designs industry-leading solutions tailored to address your business needs. With our expertise in working across a wide variety of software and applications, we ensure that your organisation receives the best possible outcome.</p>",
+    "direction": "row"
+  },
+  "introThree": {
+    "subtitle": null,
+    "title": "We've helped companies transform and automate 100s of business processes across diverse industries",
+    "img": "",
+    "html": "",
+    "direction": "row-reverse"
+  },
+  "about": {
+    "subtitle": "Our mission is&nbsp;to&nbsp;bring businesses and customers together through smart digital <nobr>automation</nobr> solutions.",
+    "banner": {
+      "slogan": "A little about us.<br/>Our experience and passion",
+      "url": "/images/stories/team/TeamB&W2.jpg",
+      "brightness": "30%"
+    },
+    "title": "Helping organisations achieve their full potential",
+    "buttons": [],
+    "img": "/images/stories/team/TeamB&W2.jpg",
+    "html": "<p>Simplimate was founded with a&nbsp;simple idea, that the strategies that we&nbsp;developed within&nbsp;large corporate organisations could be&nbsp;translated & applied to&nbsp;any business in&nbsp;any sector, government or&nbsp;private. With a&nbsp;combined 90 years' experience, we’ve&nbsp;successfully developed, designed and implemented digital transformation strategies across hundreds of&nbsp;business processes and thousands of&nbsp;users.</p><p>Simplimate goes beyond being just a consulting firm. We are firmly committed to delivering the best results for our clients and strongly believe in establishing authentic partnerships with them, always driven to help them achieve their goals. Our success is defined by the accomplishments of our clients.</p>",
+    "direction": "row"
+  },
+  "pricing": {
+    "textAlign": "center",
+    "subtitle": "We&nbsp;can tailor a&nbsp;pricing plan that meets your needs.<br />To&nbsp;discuss pricing with our team, contact us&nbsp;below and we’ll&nbsp;reach out to&nbsp;you shortly.",
+    "banner": {
+      "slogan": "Pricing",
+      "url": "/images/stories/franck-v-rDxP1tF3CmA-unsplash.jpg",
+      "brightness": "80%"
+    },
+    "title": "Everyone is unique",
+    "buttons": [],
+    "img": null,
+    "html": null,
+    "direction": "row"
+  },
+  "staffing": {
+    "subtitle": "",
+    "banner": {
+      "slogan": "Skilled Resourcing and Talent Management",
+      "url": "/images/stories/brooke-unsplash.jpeg",
+      "brightness": "70%"
+    },
+    "title": "We’re a colourful and passionate team",
+    "buttons": [],
+    "img": "/images/team2.jpg",
+    "html": "<p>Simplimate was founded with a&nbsp;simple idea, that the strategies that we&nbsp;developed within&nbsp;large corporate organisations could be&nbsp;translated & applied to&nbsp;any business in&nbsp;any sector, government or&nbsp;private. With a&nbsp;combined 90 years' experience, we’ve&nbsp;successfully developed, designed and implemented digital transformation strategies across hundreds of&nbsp;business processes and thousands of&nbsp;users.</p>",
+    "direction": "row"
+
+  },
+  "delivery": {
+    "subtitle": "",
+    "banner": {
+      "slogan": "Expert Project Delivery",
+      "url": "/images/stories/brooke-unsplash.jpeg",
+      "brightness": "70%"
+    },
+    "title": "Managing and Executing Technology Projects with Precision",
+    "buttons": [],
+    "img": "/images/agilelogo.png",
+    "html": "<p>At Simplimate, we specialize in end-to-end project delivery, utilizing agile methodologies to ensure seamless execution of technology projects for our clients. With our experienced team and proven methodologies, we take care of every aspect of the project, from planning to implementation, to deliver exceptional results. Additionally, we offer training to organisations to assist them on their agile journeys.<ul><li><b>Efficient Excecution - </b>We handle all project components, including requirements gathering, design, development, testing, and deployment.</li></br><li><b>Streamlined Process - </b>Our proven methodologies ensure efficient project management, on-time delivery, and cost-effective solutions.</li></ul></p>",
+    "direction": "relative"
+  },
+  "sales": {
+    "title": "Product services ",
+    "bodyUrl": "/md/articles.services.1.md",
+    "buttons": [
+      {
+        "title": "Contact us",
+        "url": "/contact",
+        "style": "primary"
+      }
+    ]
+  },
+  "resourcingSummary": {
+    "title": "Expertise and Resources to Meet Your Organisational Needs",
+    "subtitle": "Simplimate offers a wide range of resources, including experienced professionals and cutting-edge technology, to assist with various organisational needs. Whether you require assistance with technology projects, digital transformation initiatives, automation strategies, or AI capabilities, our team is here to provide expert guidance and deliver optimal outcomes.",
+    "buttons": [],
+    "img": "/images/Resourcing.png",
+    "html": null,
+    "direction": "row"
+  }
+}
