@@ -23,7 +23,7 @@ const em = ($pixels, $context = $browserContext) =>
 const A = {}
 A.Link = styled(Link)`
   && {
-    font-family: 'Gotham Light', sans-serif;
+    font-family: Poppins, sans-serif;
     display: inline-block;
     color: ${props => props.color};
     cursor: pointer;
@@ -36,14 +36,14 @@ A.Link = styled(Link)`
     }
     a {
       font-size: 1.15em;
-      font-family: 'Gotham Light', sans-serif;
+      font-family: Poppins, sans-serif;
       text-decoration: none;
     }
   }
 `
 const BlueButton = styled(ButtonBase)`
   && {
-    font-family: 'Gotham Medium', sans-serif;
+    font-family: Poppins, sans-serif;
     height: 46px;
     font-size: 1.15em;
     font-style: normal;
@@ -103,7 +103,7 @@ const Subslogan = styled.div`
     text-align: center;
     font-size: 1.7em;
     line-height: 1.321;
-    font-family: 'Gotham Light', sans-serif;
+    font-family: Poppins, sans-serif;
     margin-top: 1.5em;
     color: #fff;
     ${mediaGrid(`sm`)} {

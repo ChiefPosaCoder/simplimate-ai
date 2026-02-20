@@ -63,7 +63,7 @@ const ParagraphCustom = styled.div`
     padding: 0;
     text-align: left;
     p {
-      font-family: 'Gotham Light', sans-serif;
+      font-family: Poppins, sans-serif;
       font-size: 0.95em;
       color: rgba(0, 0, 0, 0.7);
       line-height: 1.5;
@@ -74,7 +74,7 @@ const ParagraphCustom = styled.div`
 
 const CardTitle = styled(Typography)`
   && {
-    font-family: 'Gotham Medium', sans-serif;
+    font-family: Poppins, sans-serif;
     font-size: 1.15em;
     line-height: 1.3;
     font-weight: 600;

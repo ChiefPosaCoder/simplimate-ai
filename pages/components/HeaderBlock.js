@@ -172,7 +172,7 @@ A.MenuWrap = styled(Grid)`
 `
 
 A.Link = styled(Link)`
-  font-family: 'Gotham Light', sans-serif;
+  font-family: Poppins, sans-serif;
   display: inline-block;
   color: ${props => props.color};
   cursor: pointer;
@@ -212,7 +212,7 @@ A.WrapperIcon = styled.div`
 `
 A.BlueButton = styled(ButtonBase)`
   && {
-    font-family: 'Gotham Medium', sans-serif;
+    font-family: Poppins, sans-serif;
     height: 46px;
     font-size: 1em;
     font-style: normal;

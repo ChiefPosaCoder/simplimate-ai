@@ -6,66 +6,30 @@ import theme from '../theme';
 import { createGlobalStyle } from 'styled-components'
 
 const GlobalStyle = createGlobalStyle`
-
-  @font-face {
-    font-family: 'Gotham Light';
-    src: url('/fonts/Gotham-Light.eot');
-    src: url('/fonts/Gotham-Light.eot?#iefix')
-        format('embedded-opentype'),
-      url('/fonts/Gotham-Light.woff') format('woff'),
-      url('/fonts/Gotham-Light.ttf') format('truetype'),
-      url('/fonts/Gotham-Light.svg#/fonts/Gotham-Light')
-        format('svg');
-    font-weight: normal;
-    font-style: normal;
+  @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+  
+  * {
+    box-sizing: border-box;
   }
-  @font-face {
-    font-family: 'Gotham Medium';
-    src: url('/fonts/Gotham-Medium.eot');
-    src: url('/fonts/Gotham-Medium.eot?#iefix')
-        format('embedded-opentype'),
-      url('/fonts/Gotham-Medium.woff') format('woff'),
-      url('/fonts/Gotham-Medium.ttf') format('truetype'),
-      url('/fonts/Gotham-Medium.svg#gotham-medium')
-        format('svg');
-    font-weight: normal;
-    font-style: normal;
-  }
-  @font-face {
-    font-family: 'Paytone One';
-    src: url('/fonts/PaytoneOne.eot');
-    src: url('/fonts/PaytoneOne.eot?#iefix')
-        format('embedded-opentype'),
-      url('/fonts/PaytoneOne.woff') format('woff'),
-      url('/fonts/PaytoneOne.ttf') format('truetype'),
-      url('/fonts/PaytoneOne.svg#PaytoneOne') format('svg');
-    font-weight: normal;
-    font-style: normal;
-  }
-
+  
   html, body {
-  font-family: 'Gotham Light', sans-serif;
-  height: 100%;
-  margin: 0;
-  font-style: normal;
-  font-stretch: normal;
-  line-height: normal;
-  letter-spacing: normal;
-  text-decoration: none;
-  font-size: 16px;
-  color: #9b9b9b;
-
+    font-family: 'Poppins', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    font-size: 16px;
+    color: #333;
+    background: #fff;
   }
+  
   a {
     color: rgb(0,90,144);
+    text-decoration: none;
     &:hover {
-      text-decoration:none;
+      text-decoration: none;
     }
   }
-
 `
-
-
 
 export default function MyApp(props) {
   const { Component, pageProps } = props;
@@ -73,9 +37,12 @@ export default function MyApp(props) {
     <React.Fragment>
       <GlobalStyle />
       <Head>
-        <title>Simplimate</title>
+        <title>Simplimate AI | AI Consulting for Small Business</title>
         <link href="/favicon.ico" rel="icon" />
         <meta content="minimum-scale=1, initial-scale=1, width=device-width" name="viewport" />
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
+        <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&family=Paytone+One&display=swap" rel="stylesheet" />
       </Head>
       <ThemeProvider theme={theme}>
         <CssBaseline />
