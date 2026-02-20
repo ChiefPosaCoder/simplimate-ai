@@ -20,7 +20,7 @@ const GlobalStyle = createGlobalStyle`
     font-style: normal;
   }
   @font-face {
-    font-family: 'Gotham Medium';C
+    font-family: 'Gotham Medium';
     src: url('/fonts/Gotham-Medium.eot');
     src: url('/fonts/Gotham-Medium.eot?#iefix')
         format('embedded-opentype'),
